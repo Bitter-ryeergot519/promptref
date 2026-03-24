@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-    {name = "Muhammad Muhsin", email = "your@email.com"}
+    {name = "Muhammad Muhsin", email = "muhammadmuhsin250@gmail.com"}
 ]
 keywords = ["llm", "prompts", "version-control", "cli", "ai"]
 classifiers = [
