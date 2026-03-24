@@ -16,25 +16,33 @@ MANIFEST
 
 # Virtual environments
 .env
+.envrc
 .venv
 env/
 venv/
 ENV/
+env.bak/
+venv.bak/
 
 # pytest / coverage
 .pytest_cache/
 .coverage
+.coverage.*
 htmlcov/
 .tox/
+.nox/
 
 # mypy / type checkers
 .mypy_cache/
 .dmypy.json
 dmypy.json
+.pyre/
+.pytype/
 
 # IDEs
 .idea/
 .vscode/
+.ruff_cache/
 *.swp
 *.swo
 
