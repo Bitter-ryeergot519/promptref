@@ -1,0 +1,33 @@
+[project]
+name = "promptref"
+version = "0.1.0"
+description = "Git-like version control for LLM prompts"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Muhammad Muhsin", email = "your@email.com"}
+]
+keywords = ["llm", "prompts", "version-control", "cli", "ai"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.9",
+]
+dependencies = [
+    "typer>=0.12.0",
+    "rich>=13.0.0",
+    "pyyaml>=6.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/mohsinmv/promptref"
+Repository = "https://github.com/mohsinmv/promptref"
+
+[project.scripts]
+promptref = "promptref.main:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
