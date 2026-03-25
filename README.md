@@ -1,6 +1,7 @@
 # promptref
 
 > Git for prompts. Track, diff, branch, and rollback your LLM prompt versions from the CLI.
+![promptref demo](demo.gif)
 
 ![PyPI version](https://img.shields.io/pypi/v/promptref)
 ![Python 3.9+](https://img.shields.io/pypi/pyversions/promptref)
